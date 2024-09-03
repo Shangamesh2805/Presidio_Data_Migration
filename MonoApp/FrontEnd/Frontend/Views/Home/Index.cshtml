@@ -1,0 +1,22 @@
+﻿@model List<Backend.Models.Item>
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Items</title>
+</head>
+<body>
+    <h1>Items</h1>
+    <ul>
+        @foreach (var item in Model)
+        {
+            <li>@item.Name</li>
+        }
+    </ul>
+
+    <form asp-action="AddItem" method="post">
+        <input type="text" name="name" placeholder="New Item" required />
+        <button type="submit">Add</button>
+    </form>
+</body>
+</html>

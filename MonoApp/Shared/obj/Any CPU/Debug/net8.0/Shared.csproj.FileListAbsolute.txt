@@ -1,0 +1,4 @@
+D:\MonoApp\Shared\obj\Any CPU\Debug\net8.0\Shared.GeneratedMSBuildEditorConfig.editorconfig
+D:\MonoApp\Shared\obj\Any CPU\Debug\net8.0\Shared.AssemblyInfoInputs.cache
+D:\MonoApp\Shared\obj\Any CPU\Debug\net8.0\Shared.AssemblyInfo.cs
+D:\MonoApp\Shared\obj\Any CPU\Debug\net8.0\Shared.csproj.CoreCompileInputs.cache
